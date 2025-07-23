@@ -3,3 +3,4 @@ face-recognition
 dlib-bin
 numpy
 pandas
+pip freexe>requirements.txt
